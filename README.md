@@ -59,10 +59,9 @@
 </h2>
 
 <div align="center">
-  <img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  <img align="right" alt="Coding Animation" width="400" height="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 
-<img width="1800" height="440" alt="VeniceAI_Rf_dRPKfSEnE53_0" src="https://github.com/user-attachments/assets/bd9b8ea0-56a4-4b16-aa9a-e62cd8cbf0dd" />
 ### Full Stack Developer | B.Tech Student | Exploring AI & Machine Learning
 
 I'm a B.Tech student at Coding Gita, passionate about building web applications and improving my software development skills. I'm currently learning full-stack development and exploring Artificial Intelligence and Machine Learning.
