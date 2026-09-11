@@ -1,11 +1,12 @@
 # Hi, I'm Yash Shingala 👋
+<img src="https://github.com/s17200/s17200/blob/main/helloworld_finished.png" alt="label" width="1210px" height="200" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     ANIMATED HEADER BANNER                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hello%20World!%20🌍&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</div>
+</div> -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    TYPING ANIMATION HEADER                      -->
