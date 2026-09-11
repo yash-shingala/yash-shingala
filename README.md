@@ -1,4 +1,5 @@
 # Hi, I'm Yash Shingala 👋
+<img width="1800" height="440" alt="VeniceAI_Rf_dRPKfSEnE53_0" src="https://github.com/user-attachments/assets/bd9b8ea0-56a4-4b16-aa9a-e62cd8cbf0dd" />
 
 ### Full Stack Developer | B.Tech Student | Exploring AI & Machine Learning
 
