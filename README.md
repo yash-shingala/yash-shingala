@@ -1,5 +1,6 @@
 # Hi, I'm Yash Shingala 👋
 <img src="https://github.com/s17200/s17200/blob/main/helloworld_finished.png" alt="label" width="1210px" height="200" />
+<!-- <img width="1800" height="440" alt="VeniceAI_Rf_dRPKfSEnE53_0" src="https://github.com/user-attachments/assets/51ef5c28-6c3a-4202-aeb0-5fe2d2bd75b4" /> -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     ANIMATED HEADER BANNER                      -->
